@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Polyline</string>
     <string name="title_activity_maps">MapsActivity</string>
-    <string name="google_maps_key">AIzaSyD7Svot1Qs4Qv_GczkyfdIZ0LNH-yYCPZg</string>
+    <string name="google_maps_key">yYCPZg</string>
     <string name="request_cab">request_cab\n</string>
     <string name="take_next_ride">take_next_ride</string>
     <string name="pickup_location">From </string>
