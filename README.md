@@ -12,7 +12,7 @@ Add the Api to Strings File
 ```java
  <string name="google_maps_key">AIzaSyD7Svot1Qs4QYCPZg</string>
  ```
-
+https://github.com/droid-app-dev/Places-API-Demo/assets/41099218/d125dfcf-58b7-430b-a6a0-8e188a212758
 
 
 
